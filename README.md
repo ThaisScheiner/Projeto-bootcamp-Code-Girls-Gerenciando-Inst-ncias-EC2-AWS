@@ -1,4 +1,4 @@
-# Projeto Bootcamp Santnader Code Girls - Gerenciando Instancias EC2 AWS
+# Projeto Bootcamp Santander Code Girls - Gerenciando Instancias EC2 AWS
 
 Este diagrama representa uma arquitetura básica e escalável para uma aplicação web/API na AWS.
 

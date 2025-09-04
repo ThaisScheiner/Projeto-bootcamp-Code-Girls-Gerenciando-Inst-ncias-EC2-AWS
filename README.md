@@ -2,6 +2,8 @@
 
 Este diagrama representa uma arquitetura básica e escalável para uma aplicação web/API na AWS.
 
+![Arquitetura do Projeto AWS](./projetoAws.jpg)
+
 ### 1. Usuário e Requisição Inicial
 
 * **Usuário:** Inicia o processo acessando o nome de domínio da sua aplicação (ex: `www.minhaaplicacao.com`).
